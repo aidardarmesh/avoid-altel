@@ -1,2 +1,4 @@
-# avoid-altel
-Avoid Altel "Share Internet" Charge
+# Avoid Altel "Share Internet" Charge
+```
+$ sudo sysctl -w net.inet.ip.ttl=65
+```
